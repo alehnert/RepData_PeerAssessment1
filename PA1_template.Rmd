@@ -5,7 +5,7 @@ output:
     keep_md: true
 ---
 
-## note: I misread directions and saved my report under a different name. Please grade the file named RepData_Proj1.Rmd, the latest commit of that file corresponds to the one I submitted for the assignment.
+## note: I misread directions and saved my report under a different name. Please grade the file named RepData_Proj1.Rmd, the latest commit of that file corresponds to the one I submitted for the assignment. 
 ## Loading and preprocessing the data
 
 
